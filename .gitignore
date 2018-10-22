@@ -3,6 +3,8 @@
 *.settings
 netty/nettyclient/target/
 netty/nettyserver/target/
+nio/nio-client/target/
+nio/nio-server/target/
 *.class
 */target/
 
